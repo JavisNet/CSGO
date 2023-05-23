@@ -3,5 +3,6 @@
 # Здесь новые фичи
 # exec knife/start - для того чтобы можно было выдавать ножи
 # exec knife/0-19 - для выдачи ножа
-# exec ach/JavisProger  звучит пофосно но это так
+# exec ach/JavisProger  звучит пафосно но это так
+# exec slam
 # P.S: Ну чисто поржать
