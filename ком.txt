@@ -1,0 +1,3 @@
+give weapon_healthshot лечебный шприц
+give item_heavyassaultsuit Армор на 200 брони
+give weapon_tagrenade тактическая граната (wallhack граната)
